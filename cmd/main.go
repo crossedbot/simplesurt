@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	surt "simplesurt-proto"
+	surt "github.com/crossedbot/simplesurt"
 )
 
 const (
